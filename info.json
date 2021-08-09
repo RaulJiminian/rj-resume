@@ -1,0 +1,23 @@
+{
+  "name": "Raul E. Jiminian",
+  "website": "http://rauljiminian.com",
+  "linkedin": "https://www.linkedin.com/in/raul-jiminian/",
+  "github": "RaulJiminian",
+  "email": "raul.e.jiminian@gmail.com",
+  "resume": "https://www.docdroid.net/NYETWw1/rauljiminianresume-pdf",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Ruby",
+      "Ruby on Rails"
+  ],
+  "otherSkills": [
+      "Spanish speaker",
+      "Avid cyclist",
+      "America's Next Top Master Chef"
+  ]
+}
