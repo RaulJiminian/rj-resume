@@ -11,9 +11,13 @@
       "Node",
       "Express",
       "Mongodb",
-      "PostgreSQL",
+      "Mongoose",
       "Ruby",
-      "Ruby on Rails"
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Python",
+      "Flask",
+      "Django"
   ],
   "otherSkills": [
       "Spanish speaker",
